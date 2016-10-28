@@ -1,1 +1,3 @@
-/WEB-INF/
+/WEB-INF/classes
+/WEB-INF/m2e-wtp
+/WEB-INF/test-classes
