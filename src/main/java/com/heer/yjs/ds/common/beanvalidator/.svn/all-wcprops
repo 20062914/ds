@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/projects/!svn/ver/26314/products/dataServicePlatform/src/main/java/com/heer/dsp/common/beanvalidator
+END
+DefaultGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/projects/!svn/ver/26314/products/dataServicePlatform/src/main/java/com/heer/dsp/common/beanvalidator/DefaultGroup.java
+END
+AddGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/projects/!svn/ver/26314/products/dataServicePlatform/src/main/java/com/heer/dsp/common/beanvalidator/AddGroup.java
+END
+EditGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/projects/!svn/ver/26314/products/dataServicePlatform/src/main/java/com/heer/dsp/common/beanvalidator/EditGroup.java
+END
+BeanValidators.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/projects/!svn/ver/26314/products/dataServicePlatform/src/main/java/com/heer/dsp/common/beanvalidator/BeanValidators.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/projects/!svn/ver/26314/products/dataServicePlatform/src/main/java/com/heer/dsp/common/mapper
+END
+JsonMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/projects/!svn/ver/26314/products/dataServicePlatform/src/main/java/com/heer/dsp/common/mapper/JsonMapper.java
+END
+JaxbMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/projects/!svn/ver/26314/products/dataServicePlatform/src/main/java/com/heer/dsp/common/mapper/JaxbMapper.java
+END
+BeanMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/projects/!svn/ver/26314/products/dataServicePlatform/src/main/java/com/heer/dsp/common/mapper/BeanMapper.java
+END

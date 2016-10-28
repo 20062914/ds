@@ -1,0 +1,10 @@
+package com.heer.dsp.common.beanvalidator;
+
+/**
+ * 添加Bean验证组
+ * @author qiukm
+ *
+ */
+public interface AddGroup {
+
+}

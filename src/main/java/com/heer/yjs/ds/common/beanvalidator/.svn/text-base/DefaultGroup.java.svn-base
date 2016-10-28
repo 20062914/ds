@@ -1,0 +1,9 @@
+package com.heer.dsp.common.beanvalidator;
+
+/**
+ * 默认Bean验证组
+ * @author qiukm
+ */
+public interface DefaultGroup {
+
+}
